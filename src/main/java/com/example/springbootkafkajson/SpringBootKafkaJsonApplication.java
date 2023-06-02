@@ -1,0 +1,13 @@
+package com.example.springbootkafkajson;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringBootKafkaJsonApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringBootKafkaJsonApplication.class, args);
+	}
+
+}
